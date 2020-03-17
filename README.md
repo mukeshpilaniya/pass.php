@@ -1,2 +1,1 @@
-# password
-avto
+password:avto

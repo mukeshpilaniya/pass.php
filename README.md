@@ -1,1 +1,2 @@
-# pass.php
+# password
+avto
